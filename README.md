@@ -1,4 +1,4 @@
-# Time Slot Booking
+# Book time Slot
 This is a simple web application that allows users to book a time slot by selecting a date and a specific time from a list of available slots. 
 
 ![Product Name Screen Shot][product-screenshot]
